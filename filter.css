@@ -167,14 +167,7 @@
 }
 
 
-.img2{
-    width: 15%;
-    border-radius: 20%;
-    top: 20px;
-    left: 20px;
-    display: inline-block;
-    position: absolute;
-}
+
 .r2-hed{
    font: normal normal 600 30px/46px Poppins;
    color: #192F60;
