@@ -1,0 +1,230 @@
+.reed{
+    position: relative;
+    background-color: #EB2929;;
+    height: 60px;
+}
+.login{
+    position: absolute;
+    top: 15px;
+    left: 80%;
+    font: normal normal medium 16px/25px Poppins;
+    color: #FFFFFF;
+
+}
+.accn{
+    position: absolute;
+    top: 10px;
+    left: 85%;
+    
+}
+
+.logo{
+    color: #EB2929;;
+    background-color: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 5%;
+    position: absolute;
+    top:10px;
+}
+.head{
+    font: normal normal bold 36px/55px Poppins;
+    color: #192F60;
+    margin-left: 5%;
+}
+.container{
+    position: relative;
+    margin-left: 5%;
+
+}
+.c1{
+    border: solid 2px gray;
+    height: 600px;
+    width: 15%;
+    display: inline-block;
+    
+    
+}
+.r1{
+    position: relative;
+    border: solid 2px gray;
+    height: 250px;
+    width: 60%;
+    position: absolute;
+    top: 0px;
+    left: 20%;
+    display: inline-block;
+}
+.r2{
+    position: relative;
+    border: solid 2px gray;
+    height: 250px;
+    width: 60%;
+    position: absolute;
+    top: 300px;
+    left: 20%;
+    display: inline-block;
+}
+.filter{
+    font: normal normal 600 18px/27px Poppins;
+    color: #192F60;
+    padding-left: 20px;
+}
+.loaction{
+    font: normal normal 600 18px/27px Poppins;
+    color: #192F60;
+    padding-left: 20px;
+}
+.city{
+    margin-left: 15px;
+    padding-left: 20px;
+    color: #8C96AB;
+}
+.cuisine{
+    font: normal normal 600 18px/27px Poppins;
+    color: #192F60;
+    padding-left: 15px;
+}
+.cu-box{
+    font: normal normal normal 14px/21px Poppins;
+    color: #8C96AB;
+    padding-left: 20px;
+}
+.cost{
+    font: normal normal 600 18px/27px Poppins;
+    color: #192F60;
+    padding-left: 20px;
+}
+.co-radio{
+    font: normal normal normal 14px/21px Poppins;
+    color: #8C96AB;
+    padding-left: 20px;
+}
+.sort{
+    font: normal normal 600 18px/27px Poppins;
+    color: #192F60;
+    padding-left: 20px;
+}
+.so{
+    font: normal normal normal 14px/21px Poppins;
+    color: #8C96AB;
+    padding-left: 20px;
+}
+
+.r1-hed{
+   font: normal normal 600 30px/46px Poppins;
+   color: #192F60;
+   top: 20px;
+   left: 170px;
+   display: inline-block;
+   position: absolute;
+}
+.r1-subhed{
+    font: normal normal medium 16px/30px Poppins;
+    color: #192F60;
+    top: 65px;
+    left: 170px;
+    display: inline-block;
+    position: absolute;
+}
+.r1-add{
+    font: normal normal normal 16px/30px Poppins;
+    color: #636F88;
+    top: 85px;
+    left: 170px;
+    display: inline-block;
+    position: absolute;
+
+}
+.r1-lne{
+    position: absolute;
+    top: 150px;
+    width: 90%;
+    left: 30px;
+    color: #636F88;
+}
+.r1-cost{
+    font: normal normal normal 16px/30px Poppins;
+    color: #636F88;
+    top: 165px;
+    left: 30px;
+    display: inline-block;
+    position: absolute;
+
+}
+.r1-price{
+    font: normal normal normal 16px/30px Poppins;
+    color: #192F60;
+    top: 165px;
+    left: 180px;
+    display: inline-block;
+    position: absolute;
+
+
+}
+
+
+.img2{
+    width: 15%;
+    border-radius: 20%;
+    top: 20px;
+    left: 20px;
+    display: inline-block;
+    position: absolute;
+}
+.r2-hed{
+   font: normal normal 600 30px/46px Poppins;
+   color: #192F60;
+   top: 20px;
+   left: 170px;
+   display: inline-block;
+   position: absolute;
+}
+.r2-subhed{
+    font: normal normal medium 16px/30px Poppins;
+    color: #192F60;
+    top: 65px;
+    left: 170px;
+    display: inline-block;
+    position: absolute;
+}
+.r2-add{
+    font: normal normal normal 16px/30px Poppins;
+    color: #636F88;
+    top: 85px;
+    left: 170px;
+    display: inline-block;
+    position: absolute;
+
+}
+.r2-lne{
+    position: absolute;
+    top: 150px;
+    width: 90%;
+    left: 30px;
+    color: #636F88;
+}
+.r2-cost{
+    font: normal normal normal 16px/30px Poppins;
+    color: #636F88;
+    top: 165px;
+    left: 30px;
+    display: inline-block;
+    position: absolute;
+
+}
+.r2-price{
+    font: normal normal normal 16px/30px Poppins;
+    color: #192F60;
+    top: 165px;
+    left: 180px;
+    display: inline-block;
+    position: absolute;
+
+
+}
+
+
